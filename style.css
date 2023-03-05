@@ -1,0 +1,22 @@
+
+#t1{
+    background-color:black;
+    color: aliceblue;
+    text-align: left;
+    font-family:cursive ;
+}
+#t2{
+    background-color: blueviolet;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+}
+#t3{
+    background-color: aquamarine;
+    text-align: right;
+    font-family: cursive;
+    text-decoration: underline;
+}
+#span{
+    color: aqua;
+}
